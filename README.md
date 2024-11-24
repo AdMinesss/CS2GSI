@@ -1,7 +1,9 @@
-# CS2GSI
+# WSI
 CS2 Web State Integration
 ![image](https://github.com/user-attachments/assets/4757546c-2652-48b5-aee0-934ecfe6f12d)
-TO DO:
+Веб плагин "WSI Web" React Native работает в паре с предоставляемым серверным плагином "WSI Server" (cs#). Вы так же можете использовать их отдельно, установив свой серверный плагин.
+
+Что умеет мониторинг:
 # Server side plugin(C#)
    + Отправка массива данных о игроках на NodeJS(int 200ms)
    + Отправка массива данных о сервере на NodeJS(int 400ms)
