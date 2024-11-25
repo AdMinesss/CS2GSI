@@ -1,13 +1,11 @@
-# WSI
-CS2 Web State Integration
+<h1 align="center"> WSI</h1>
+<h3 align="center">CS2 Web State Integration</h3>
+
 ![image](https://github.com/user-attachments/assets/4757546c-2652-48b5-aee0-934ecfe6f12d)
-Веб плагин "WSI Web" React Native работает в паре с предоставляемым серверным плагином "WSI Server" (cs#) и Back End ядром "WSI Node"
-
-Для полноценной работы необходимо
-WSI Web (Вы тут)
-WSI Node - https://github.com/AdMinesss/WSI-Node
-WSI Server - https://github.com/AdMinesss/WSI-Server
-
+Веб плагин "WSI Web" написан на React Native и работает с 
+   <br><a href='https://github.com/AdMinesss/WSI-Node'>WSI Node</a>
+   <br><a href='https://github.com/AdMinesss/WSI-Server'>WSI Server</a>
+<br><br>Реализованные возможности
    + Рендер игроков
    + Отрисовка трупов
    + Показ игровых событий
